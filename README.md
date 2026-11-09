@@ -4,7 +4,7 @@ The way in to the work of the Secretariat. This repository holds the menu;
 each section of the work keeps its own repository, its own history and its own
 site.
 
-**https://dskiad.github.io/ATHELSTAN-GRAND-SECRETARY/**
+**https://webappngdsib.github.io/ATHELSTAN-GRAND-SECRETARY/**
 
 > The link goes live once GitHub Pages is enabled for this repository:
 > **Settings → Pages → Build and deployment → Source: _GitHub Actions_**.
